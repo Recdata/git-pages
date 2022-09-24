@@ -1,4 +1,8 @@
 [Home](Readme.md) | [Cast](Cast.md) | [Collectibles](Collectibles.md) | 
+<br>
+
+https://user-images.githubusercontent.com/88032779/192097110-d29fbaef-50c6-4e8f-8e38-fb57c6b4d55c.mp4
+
 
 The Stargazers are members of the _Intergalactic Alliance_ paving the way for peace and benevolence among all species. They are known for their enthusiasm for science, for their love of fun, and their dedication to education.
 
