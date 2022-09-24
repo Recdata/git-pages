@@ -1,0 +1,1 @@
+![logo stargazers](images/violette.svg)
